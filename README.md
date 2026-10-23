@@ -7,7 +7,7 @@ Install Node.js v18.x (lower versions might work but are untested), then click o
 
 You can customize:
 * Avatar selection in `avatars/`
-* The Message Of The Day in `motd.txt`
+* The Message Of The Day in `motd.txt` *(changing the Message Of The Day can happen while the server is running, with changes taking into effect after a short while)*
 * Silly messages (`silly`), the path prefix (`pathPrefix`) and port (`port`) in `server.js`.
 * The limit of levels one player can have (`levelLimit`) and the default level icon (`defaultLevelIcon`) in `server.levels.js`
 * Invalid symbols (`invalidSymbols`) and passwords (`invalidPasswords`) in `server.users.js`
